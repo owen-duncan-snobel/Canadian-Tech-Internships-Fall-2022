@@ -17,8 +17,10 @@ To contribute:
  |---|---|---|---|
  |  [Deloitte](https://careers.deloitte.ca/?search) |  Across Canada (Toronto, Montreal, Ottawa, ...) | Now | Search for Fall 2022 |
  |  [Konrad](https://www.konrad.com/careers/internships) |  Toronto, Vancouver | Rolling Applications | Now  |
+ |  [Magnet Forensics](https://www.magnetforensics.com/careers-at-magnet/) |  Waterloo | Rolling Applications | Now  |
  |  [Nokia](https://aluperf.referrals.selectminds.com/) |  Ottawa | Rolling Applications | No Set Application Deadline  | Search For Fall 2022 |
  |  [TextIQ](https://www.textiq.com/career#openings) |  Vancouver | Rolling Applications | No Set Application Deadline  |  |
+
 
 
 
