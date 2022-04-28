@@ -19,11 +19,11 @@ To contribute:
  |  [Google](https://careers.google.com/jobs/results/115367821606560454-software-developer-intern-bachelors-summer-2022/?distance=50&employment_type=INTERN&location=Canada) |  Waterloo, Montreal, Toronto | Now | Research positions (Bsc, Msc, PHD)  |
  |  [Intel](https://jobs.intel.com/page/show/search-results#q=co-op&t=Jobs&sort=relevancy&layout=table&f:@countryfullname=[Canada]) |  Toronto, Vancouver | Now | Search for co-op  |
  |  [Konrad](https://www.konrad.com/careers/internships) |  Toronto, Vancouver | Now |  |
+ |  [KPMG](https://careers.kpmg.ca/students/jobs/13905?lang=en-us) |  Toronto | Now | May 5th 2022 |  |
  |  [Magnet Forensics](https://www.magnetforensics.com/careers-at-magnet/) |  Waterloo | Now |  |
  |  [Nokia](https://aluperf.referrals.selectminds.com/) |  Ottawa | Now | No Set Application Deadline  | Search For Fall 2022 |
  |  [RBC](https://jobs.rbc.com/ca/en/search-results?keywords=fall%202022) |   Across Canada (Toronto, Montreal, Ottawa, ...) | Now | No Set Application Deadline  |  |
   |  [SAP](https://jobs.sap.com/search/?createNewAlert=false&q=&locationsearch=&optionsFacetsDD_department=&optionsFacetsDD_customfield3=Student&optionsFacetsDD_country=CA) |  Across Canada (Toronto, Montreal, Ottawa, Vancouver ...)| Now | No Set Application Deadline  |  |
  |  [TextIQ](https://www.textiq.com/career#openings) |  Vancouver | Now | No Set Application Deadline  |  |
  |  [Veerum](https://www.veerum.com/software-qa-qc-intern) |  Calgary | Now | No Set Application Deadline  |  |
- |  [KPMG](https://careers.kpmg.ca/students/jobs/13905?lang=en-us) |  Toronto | Now | May 5th 2022 |  |
  
