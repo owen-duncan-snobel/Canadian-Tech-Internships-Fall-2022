@@ -16,7 +16,7 @@ To contribute:
  | Name  |  Location |  Application Period |  Notes |
  |---|---|---|---|
  |  [Deloitte](https://careers.deloitte.ca/?search) |  Across Canada (Toronto, Montreal, Ottawa, ...) | Now | Search for Fall 2022 |
- |  [Google](https://careers.google.com/jobs/results/115367821606560454-software-developer-intern-bachelors-summer-2022/?distance=50&employment_type=INTERN&location=Canada) |  Waterloo, Montreal | |   |
+ |  [Google](https://careers.google.com/jobs/results/115367821606560454-software-developer-intern-bachelors-summer-2022/?distance=50&employment_type=INTERN&location=Canada) |  Waterloo, Montreal | Now | Research positions (Bsc, Msc, PHD)  |
  |  [Intel](https://jobs.intel.com/page/show/search-results#q=co-op&t=Jobs&sort=relevancy&layout=table&f:@countryfullname=[Canada]) |  Toronto, Vancouver | Now | Search for co-op  |
  |  [Konrad](https://www.konrad.com/careers/internships) |  Toronto, Vancouver | Now |  |
  |  [Magnet Forensics](https://www.magnetforensics.com/careers-at-magnet/) |  Waterloo | Now |  |
