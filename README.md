@@ -19,6 +19,7 @@ To contribute:
  |  [Konrad](https://www.konrad.com/careers/internships) |  Toronto, Vancouver | Now |  |
  |  [Magnet Forensics](https://www.magnetforensics.com/careers-at-magnet/) |  Waterloo | Now |  |
  |  [Nokia](https://aluperf.referrals.selectminds.com/) |  Ottawa | Now | No Set Application Deadline  | Search For Fall 2022 |
+ |  [RBC](https://jobs.rbc.com/ca/en/search-results?keywords=fall%202022) |   Across Canada (Toronto, Montreal, Ottawa, ...) | Now | No Set Application Deadline  |  |
  |  [TextIQ](https://www.textiq.com/career#openings) |  Vancouver | Now | No Set Application Deadline  |  |
 
 
