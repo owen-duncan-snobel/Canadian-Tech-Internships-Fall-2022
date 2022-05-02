@@ -30,5 +30,6 @@ To contribute:
   |  [SAP](https://jobs.sap.com/search/?createNewAlert=false&q=&locationsearch=&optionsFacetsDD_department=&optionsFacetsDD_customfield3=Student&optionsFacetsDD_country=CA) |  Across Canada (Toronto, Montreal, Ottawa, Vancouver ...)| Now | No Set Application Deadline  |  |
  |  [TD](https://jobs.td.com/en-CA/job-search-results/?keyword=intern&primary_country=CA) |  Across Canada (Toronto, Montreal, Ottawa, ...)  | Now | No Set Application Deadline  | |
  |  [TextIQ](https://www.textiq.com/career#openings) |  Vancouver | Now | No Set Application Deadline  |  |
+ |  [ThinkData Works](https://www.thinkdataworks.com/company/careers#Header-Subnav) |  Toronto | Now | No Set Application Deadline  |  |
  |  [Veerum](https://www.veerum.com/software-qa-qc-intern) |  Calgary | Now | No Set Application Deadline  |  |
  
