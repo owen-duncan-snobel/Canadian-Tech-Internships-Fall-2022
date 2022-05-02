@@ -26,6 +26,7 @@ To contribute:
  |  [Nokia](https://aluperf.referrals.selectminds.com/) |  Ottawa | Now | No Set Application Deadline  | Search For Fall 2022 |
  |  [OPG](https://jobs.opg.com/search/?searchby=location&createNewAlert=false&q=fall+2022&locationsearch=&geolocation=) |  Toronto, Durham, Clarington | Now | May 8th  | Search For Fall 2022 |
  |  [RBC](https://jobs.rbc.com/ca/en/search-results?keywords=fall%202022) |   Across Canada (Toronto, Montreal, Ottawa, ...) | Now | No Set Application Deadline  |  |
+  |  [Rogers](https://jobs.rogers.com/search/?createNewAlert=false&q=co-op&locationsearch=) |   Across Canada (Toronto, Brampton, Burnaby, ...) | Now | No Set Application Deadline  |  |
   |  [SAP](https://jobs.sap.com/search/?createNewAlert=false&q=&locationsearch=&optionsFacetsDD_department=&optionsFacetsDD_customfield3=Student&optionsFacetsDD_country=CA) |  Across Canada (Toronto, Montreal, Ottawa, Vancouver ...)| Now | No Set Application Deadline  |  |
  |  [TD](https://jobs.td.com/en-CA/job-search-results/?keyword=intern&primary_country=CA) |  Across Canada (Toronto, Montreal, Ottawa, ...)  | Now | No Set Application Deadline  | |
  |  [TextIQ](https://www.textiq.com/career#openings) |  Vancouver | Now | No Set Application Deadline  |  |
