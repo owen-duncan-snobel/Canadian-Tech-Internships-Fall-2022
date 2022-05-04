@@ -16,6 +16,7 @@ To contribute:
  | Name  |  Location |  Application Period |  Notes |
  |---|---|---|---| 
  |  [BMO](https://jobs.bmo.com/ca/en/job/R220014015/Software-Developer-Fall-2022-Co-op-Internship-4-Months) | Toronto | Now | Search for Fall 2022 | 
+ |  [Coinbase](https://www.coinbase.com/careers/positions?department=Internships%2520%2526%2520University%2520Grad%2520Positions) | Canada | Now |  | 
  |  [Deloitte](https://careers.deloitte.ca/?search) |  Across Canada (Toronto, Montreal, Ottawa, ...) | Now | Search for Fall 2022 |
  |  [Google](https://careers.google.com/jobs/results/115367821606560454-software-developer-intern-bachelors-summer-2022/?distance=50&employment_type=INTERN&location=Canada) |  Waterloo, Montreal, Toronto | Now | Research positions (Bsc, Msc, PHD)  |
  |  [Intact](https://careers.intactfc.com/ca/en/search-results?keywords=fall) |  Toronto, Montreal | Now | Search for Fall  |
