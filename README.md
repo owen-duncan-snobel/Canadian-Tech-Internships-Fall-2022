@@ -17,6 +17,7 @@ To contribute:
  |---|---|---|---| 
  |  [BMO](https://jobs.bmo.com/ca/en/job/R220014015/Software-Developer-Fall-2022-Co-op-Internship-4-Months) | Toronto | Now | Search for Fall 2022 | 
  |  [Coinbase](https://www.coinbase.com/careers/positions?department=Internships%2520%2526%2520University%2520Grad%2520Positions) | Canada | Now |  | 
+ |  [Definity](https://careers.definityfinancial.com/search/technology-solutions/jobs?&cfml1=Technology%20Solutions&branch=search-technology-solutions-english-jobs) |  Toronto, Kitchener | Now | Search for Co-op |
  |  [Deloitte](https://careers.deloitte.ca/?search) |  Across Canada (Toronto, Montreal, Ottawa, ...) | Now | Search for Fall 2022 |
  |  [Google](https://careers.google.com/jobs/results/115367821606560454-software-developer-intern-bachelors-summer-2022/?distance=50&employment_type=INTERN&location=Canada) |  Waterloo, Montreal, Toronto | Now | All positions (Bsc, Msc, PHD)  |
  |  [Intact](https://careers.intactfc.com/ca/en/search-results?keywords=fall) |  Toronto, Montreal | Now | Search for Fall  |
@@ -26,6 +27,7 @@ To contribute:
  |  [Magnet Forensics](https://www.magnetforensics.com/careers-at-magnet/) |  Waterloo | Now |  |
  |  [Nokia](https://aluperf.referrals.selectminds.com/) |  Ottawa | Now | No Set Application Deadline  | Search For Fall 2022 |
  |  [OPG](https://jobs.opg.com/search/?searchby=location&createNewAlert=false&q=fall+2022&locationsearch=&geolocation=) |  Toronto, Durham, Clarington | Now | May 8th  | Search For Fall 2022 |
+ |  [PointClickCare](https://careers.pointclickcare.com/c/#/) |  Mississauga | Now | No Set Application Deadline  | Search For Co-op |
  |  [RBC](https://jobs.rbc.com/ca/en/search-results?keywords=fall%202022) |   Across Canada (Toronto, Montreal, Ottawa, ...) | Now | No Set Application Deadline  |  |
   |  [Rogers](https://jobs.rogers.com/search/?createNewAlert=false&q=co-op&locationsearch=) |   Across Canada (Toronto, Brampton, Burnaby, ...) | Now | No Set Application Deadline  |  |
   |  [SAP](https://jobs.sap.com/search/?createNewAlert=false&q=&locationsearch=&optionsFacetsDD_department=&optionsFacetsDD_customfield3=Student&optionsFacetsDD_country=CA) |  Across Canada (Toronto, Montreal, Ottawa, Vancouver ...)| Now | No Set Application Deadline  |  |
