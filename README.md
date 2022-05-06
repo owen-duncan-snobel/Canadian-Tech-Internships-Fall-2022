@@ -26,7 +26,8 @@ To contribute:
  |  [KPMG](https://careers.kpmg.ca/students/jobs/13905?lang=en-us) |  Toronto | Now | May 5th 2022 |  |
  |  [Magnet Forensics](https://www.magnetforensics.com/careers-at-magnet/) |  Waterloo | Now |  |
  |  [Nokia](https://aluperf.referrals.selectminds.com/) |  Ottawa | Now | No Set Application Deadline  | Search For Fall 2022 |
- |  [OPG](https://jobs.opg.com/search/?searchby=location&createNewAlert=false&q=fall+2022&locationsearch=&geolocation=) |  Toronto, Durham, Clarington | Now | May 8th  | Search For Fall 2022 |
+ |  [OMERS](https://omers.wd3.myworkdayjobs.com/OMERS_External?q=fall) |  Toronto| Now | No Set Application Deadline  | Search For Fall 2022 |
+ |  [OPG](https://jobs.opg.com/search/?searchby=location&createNewAlert=false&q=fall+2022&locationsearch=&geolocation=) |  Toronto, Durham, Clarington | Now |  | Search For Fall 2022 or Co-op |
  |  [PointClickCare](https://careers.pointclickcare.com/c/#/) |  Mississauga | Now | No Set Application Deadline  | Search For Co-op |
  |  [RBC](https://jobs.rbc.com/ca/en/search-results?keywords=fall%202022) |   Across Canada (Toronto, Montreal, Ottawa, ...) | Now | No Set Application Deadline  |  |
   |  [Rogers](https://jobs.rogers.com/search/?createNewAlert=false&q=co-op&locationsearch=) |   Across Canada (Toronto, Brampton, Burnaby, ...) | Now | No Set Application Deadline  |  |
