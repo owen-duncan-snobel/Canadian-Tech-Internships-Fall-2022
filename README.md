@@ -15,6 +15,7 @@ To contribute:
  # Applications Open Now
  | Name  |  Location |  Application Period |  Notes |
  |---|---|---|---| 
+|  [Activision](https://careers.activision.com/search-results?keywords=internship) | Vancouver | Now | Search for internship | 
  |  [BMO](https://jobs.bmo.com/ca/en/job/R220014015/Software-Developer-Fall-2022-Co-op-Internship-4-Months) | Toronto | Now | Search for Fall 2022 | 
  |  [Coinbase](https://www.coinbase.com/careers/positions?department=Internships%2520%2526%2520University%2520Grad%2520Positions) | Canada | Now |  | 
  |  [Definity](https://careers.definityfinancial.com/search/technology-solutions/jobs?&cfml1=Technology%20Solutions&branch=search-technology-solutions-english-jobs) |  Toronto, Kitchener | Now | Search for Co-op |
