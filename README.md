@@ -35,6 +35,7 @@ To contribute:
   |  [Rogers](https://jobs.rogers.com/search/?createNewAlert=false&q=co-op&locationsearch=) |   Across Canada (Toronto, Brampton, Burnaby, ...) | Now | No Set Application Deadline  |  |
   |  [SAP](https://jobs.sap.com/search/?createNewAlert=false&q=&locationsearch=&optionsFacetsDD_department=&optionsFacetsDD_customfield3=Student&optionsFacetsDD_country=CA) |  Across Canada (Toronto, Montreal, Ottawa, Vancouver ...)| Now | No Set Application Deadline  |  |
   |  [Scotiabank](https://jobs.scotiabank.com/search/?createNewAlert=false&q=co-op&locationsearch=) | Toronto | Now | No Set Application Deadline  |  |
+  |  [Shopify](https://internships.shopify.com/?utm_source=Shopify-careers&utm_medium=early-talent-page&utm_campaign=general#scrollTo) | Across Canada | Now | May 18th  |  |
  |  [TD](https://jobs.td.com/en-CA/job-search-results/?keyword=intern&primary_country=CA) |  Across Canada (Toronto, Montreal, Ottawa, ...)  | Now | No Set Application Deadline  | |
  |  [TextIQ](https://www.textiq.com/career#openings) |  Vancouver | Now | No Set Application Deadline  |  |
  |  [ThinkData Works](https://www.thinkdataworks.com/company/careers#Header-Subnav) |  Toronto | Now | No Set Application Deadline  |  |
