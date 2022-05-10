@@ -43,5 +43,6 @@ To contribute:
  |  [ThinkData Works](https://www.thinkdataworks.com/company/careers#Header-Subnav) |  Toronto | Now | No Set Application Deadline  |  |
  |  [Veerum](https://www.veerum.com/software-qa-qc-intern) |  Calgary | Now | No Set Application Deadline  |  |
  |  [Wealthsimple](https://jobs.lever.co/wealthsimple?commitment=Intern) |  Toronto, Remote (Canada) | Now | May 13th  |  |
+ |  [Worksafebc](https://careers.worksafebc.com/) |  Richmond | Now | Search Co-op  |  |
 
  
