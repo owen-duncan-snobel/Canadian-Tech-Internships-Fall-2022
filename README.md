@@ -21,6 +21,7 @@ To contribute:
  |  [Definity](https://careers.definityfinancial.com/search/technology-solutions/jobs?&cfml1=Technology%20Solutions&branch=search-technology-solutions-english-jobs) |  Toronto, Kitchener | Now | Search for Co-op |
  |  [Deloitte](https://careers.deloitte.ca/?search) |  Across Canada (Toronto, Montreal, Ottawa, ...) | Now | Search for Fall 2022 |
  |  [Google](https://careers.google.com/jobs/results/115367821606560454-software-developer-intern-bachelors-summer-2022/?distance=50&employment_type=INTERN&location=Canada) |  Waterloo, Montreal, Toronto | Now | All positions (Bsc, Msc, PHD)  |
+ |  [HomeX]( https://jobs.lever.co/homex) |  Toronto | Now | |
  |  [Intact](https://careers.intactfc.com/ca/en/search-results?keywords=fall) |  Toronto, Montreal | Now | Search for Fall  |
  |  [Intel](https://jobs.intel.com/page/show/search-results#q=co-op&t=Jobs&sort=relevancy&layout=table&f:@countryfullname=[Canada]) |  Toronto, Vancouver | Now | Search for co-op  |
 |  [Kepler Communications](https://kepler.space/jobs/) |  Toronto | Now | One listing under hardware currently may be more in future  |
@@ -35,6 +36,7 @@ To contribute:
   |  [Rogers](https://jobs.rogers.com/search/?createNewAlert=false&q=co-op&locationsearch=) |   Across Canada (Toronto, Brampton, Burnaby, ...) | Now | No Set Application Deadline  |  |
   |  [SAP](https://jobs.sap.com/search/?createNewAlert=false&q=&locationsearch=&optionsFacetsDD_department=&optionsFacetsDD_customfield3=Student&optionsFacetsDD_country=CA) |  Across Canada (Toronto, Montreal, Ottawa, Vancouver ...)| Now | No Set Application Deadline  |  |
   |  [Scotiabank](https://jobs.scotiabank.com/search/?createNewAlert=false&q=co-op&locationsearch=) | Toronto | Now | No Set Application Deadline  |  |
+  |  [Seismic](https://seismic.com/careers/job-listings/) | Toronto | Now | No Set Application Deadline  |  |
   |  [Shopify](https://internships.shopify.com/?utm_source=Shopify-careers&utm_medium=early-talent-page&utm_campaign=general#scrollTo) | Across Canada | Now | May 18th  |  |
  |  [TD](https://jobs.td.com/en-CA/job-search-results/?keyword=intern&primary_country=CA) |  Across Canada (Toronto, Montreal, Ottawa, ...)  | Now | No Set Application Deadline  | |
  |  [TextIQ](https://www.textiq.com/career#openings) |  Vancouver | Now | No Set Application Deadline  |  |
