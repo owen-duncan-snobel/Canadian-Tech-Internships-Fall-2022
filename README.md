@@ -22,6 +22,7 @@ To contribute:
  |  [Deloitte](https://careers.deloitte.ca/?search) |  Across Canada (Toronto, Montreal, Ottawa, ...) | Now | Search for Fall 2022 |
  |  [Google](https://careers.google.com/jobs/results/115367821606560454-software-developer-intern-bachelors-summer-2022/?distance=50&employment_type=INTERN&location=Canada) |  Waterloo, Montreal, Toronto | Now | All positions (Bsc, Msc, PHD)  |
  |  [HomeX]( https://jobs.lever.co/homex) |  Toronto | Now | |
+ |  [IBM](https://www.ibm.com/employment/#jobs?%23jobs=&country=Canada&experience=Intern) |  Across Canada (Toronto, Ottawa, ...) | Now | |
  |  [Intact](https://careers.intactfc.com/ca/en/search-results?keywords=fall) |  Toronto, Montreal | Now | Search for Fall  |
  |  [Intel](https://jobs.intel.com/page/show/search-results#q=co-op&t=Jobs&sort=relevancy&layout=table&f:@countryfullname=[Canada]) |  Toronto, Vancouver | Now | Search for co-op  |
 |  [Kepler Communications](https://kepler.space/jobs/) |  Toronto | Now | One listing under hardware currently may be more in future  |
