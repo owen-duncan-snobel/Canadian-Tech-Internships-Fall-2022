@@ -40,6 +40,7 @@ To contribute:
   |  [Scotiabank](https://jobs.scotiabank.com/search/?createNewAlert=false&q=co-op&locationsearch=) | Toronto | Now | No Set Application Deadline  |  |
   |  [Seismic](https://seismic.com/careers/job-listings/) | Toronto | Now | No Set Application Deadline  |  |
   |  [Shopify](https://internships.shopify.com/?utm_source=Shopify-careers&utm_medium=early-talent-page&utm_campaign=general#scrollTo) | Across Canada | Now | May 18th  |  |
+ |  [Snowflake](https://careers.snowflake.com/us/en/job/6140228002/Software-Engineer-Intern-Toronto-Fall-2022) | Toronto | Now | No Set Application Deadline  |  |
  |  [Taplytics](https://jobs.lever.co/taplytics) |  Toronto | Now | No Set Application Deadline  |  |
  |  [TD](https://jobs.td.com/en-CA/job-search-results/?keyword=intern&primary_country=CA) |  Across Canada (Toronto, Montreal, Ottawa, ...)  | Now | No Set Application Deadline  | |
  |  [TextIQ](https://www.textiq.com/career#openings) |  Vancouver | Now | No Set Application Deadline  |  |
