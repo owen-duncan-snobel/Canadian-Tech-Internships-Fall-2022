@@ -28,6 +28,7 @@ To contribute:
 |  [Kepler Communications](https://kepler.space/jobs/) |  Toronto | Now | One listing under hardware currently may be more in future  |
  |  [Konrad](https://www.konrad.com/careers/internships) |  Toronto, Vancouver | Now |  |
  |  [KPMG](https://careers.kpmg.ca/students/jobs/13905?lang=en-us) |  Toronto | Now | May 5th 2022 |  |
+ |  [Later](https://later.com/careers/#positions) |  Vancouver | Now |  |  |
  |  [Loblaws](https://www.loblaw.ca/en/find-jobs?page=1&q=co-op&lang=en&division=&city=&job_type=Temporary%20(Fixed%20Term)&store=) | Toronto | Now | Search for fixed term and co-op |  
  |  [Magnet Forensics](https://www.magnetforensics.com/careers-at-magnet/) |  Waterloo | Now |  |
  |  [Nokia](https://aluperf.referrals.selectminds.com/) |  Ottawa | Now | No Set Application Deadline  | Search For Fall 2022 |
