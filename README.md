@@ -40,7 +40,7 @@ To contribute:
   |  [SAP](https://jobs.sap.com/search/?createNewAlert=false&q=&locationsearch=&optionsFacetsDD_department=&optionsFacetsDD_customfield3=Student&optionsFacetsDD_country=CA) |  Across Canada (Toronto, Montreal, Ottawa, Vancouver ...)| Now | No Set Application Deadline  |  |
   |  [Scotiabank](https://jobs.scotiabank.com/search/?createNewAlert=false&q=co-op&locationsearch=) | Toronto | Now | No Set Application Deadline  |  |
   |  [Seismic](https://seismic.com/careers/job-listings/) | Toronto | Now | No Set Application Deadline  |  |
-  |  [Shopify](https://internships.shopify.com/?utm_source=Shopify-careers&utm_medium=early-talent-page&utm_campaign=general#scrollTo) | Across Canada | Now | May 18th  |  |
+  |  [Shopify](https://internships.shopify.com/?utm_source=Shopify-careers&utm_medium=early-talent-page&utm_campaign=general#scrollTo) | Across Canada | Now | May 22nd  |  |
  |  [Snowflake](https://careers.snowflake.com/us/en/job/6140228002/Software-Engineer-Intern-Toronto-Fall-2022) | Toronto | Now | No Set Application Deadline  |  |
  |  [Splunk](https://www.splunk.com/en_us/careers/search-jobs.html?keyword=co-op&region=Americas) | Vancouver | Now | No Set Application Deadline  |  |
  |  [Taplytics](https://jobs.lever.co/taplytics) |  Toronto | Now | No Set Application Deadline  |  |
