@@ -21,6 +21,7 @@ To contribute:
  |  [Cisco](https://jobs.cisco.com/jobs/SearchJobs/?21178=%5B207800%5D&21178_format=6020&21180=%5B165%5D&21180_format=6022&listFilterMode=1) | Across Canada | Now |  |
  |  [Coinbase](https://www.coinbase.com/careers/positions?department=Internships%2520%2526%2520University%2520Grad%2520Positions) | Canada | Now |  | 
  |  [Definity](https://careers.definityfinancial.com/search/technology-solutions/jobs?&cfml1=Technology%20Solutions&branch=search-technology-solutions-english-jobs) |  Toronto, Kitchener | Now | Search for Co-op |
+|  [EA](https://ea.gr8people.com/jobs/173735/software-engineer-unity-co-op-fall-22?jobPipeline=Indeed) |  Vancouver | Now |  |
  |  [Eddyfi](https://eddyfi.com/en/career/software-developer-coopintern) |  Toronto | Now |  |
  |  [Deloitte](https://careers.deloitte.ca/?search) |  Across Canada (Toronto, Montreal, Ottawa, ...) | Now | Search for Fall 2022 |
  |  [Finastra](https://dh.wd3.myworkdayjobs.com/DHC/jobs) |  Mississauge | Now | Search for co-op |
