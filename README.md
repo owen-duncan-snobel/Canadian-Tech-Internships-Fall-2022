@@ -18,8 +18,10 @@ To contribute:
 |  [Activision](https://careers.activision.com/search-results?keywords=internship) | Vancouver | Now | Search for internship | 
 |  [Airmiles](https://alliancedata.wd5.myworkdayjobs.com/AirMiles?q=co-op) | Toronto | Now | Search for co-op | 
  |  [BMO](https://jobs.bmo.com/ca/en/job/R220014015/Software-Developer-Fall-2022-Co-op-Internship-4-Months) | Toronto | Now | Search for Fall 2022 | 
+ |  [Cisco](https://jobs.cisco.com/jobs/SearchJobs/?21178=%5B207800%5D&21178_format=6020&21180=%5B165%5D&21180_format=6022&listFilterMode=1) | Across Canada | Now |  |
  |  [Coinbase](https://www.coinbase.com/careers/positions?department=Internships%2520%2526%2520University%2520Grad%2520Positions) | Canada | Now |  | 
  |  [Definity](https://careers.definityfinancial.com/search/technology-solutions/jobs?&cfml1=Technology%20Solutions&branch=search-technology-solutions-english-jobs) |  Toronto, Kitchener | Now | Search for Co-op |
+ |  [Eddyfi](https://eddyfi.com/en/career/software-developer-coopintern) |  Toronto | Now |  |
  |  [Deloitte](https://careers.deloitte.ca/?search) |  Across Canada (Toronto, Montreal, Ottawa, ...) | Now | Search for Fall 2022 |
  |  [Finastra](https://dh.wd3.myworkdayjobs.com/DHC/jobs) |  Mississauge | Now | Search for co-op |
  |  [Google](https://careers.google.com/jobs/results/115367821606560454-software-developer-intern-bachelors-summer-2022/?distance=50&employment_type=INTERN&location=Canada) |  Waterloo, Montreal, Toronto | Now | All positions (Bsc, Msc, PHD)  |
@@ -46,6 +48,7 @@ To contribute:
  |  [Snowflake](https://careers.snowflake.com/us/en/job/6140228002/Software-Engineer-Intern-Toronto-Fall-2022) | Toronto | Now | No Set Application Deadline  |  |
  |  [Splunk](https://www.splunk.com/en_us/careers/search-jobs.html?keyword=co-op&region=Americas) | Vancouver | Now | No Set Application Deadline  |  |
  |  [Taplytics](https://jobs.lever.co/taplytics) |  Toronto | Now | No Set Application Deadline  |  |
+ |  [Thales](https://thales.wd3.myworkdayjobs.com/en-US/Careers) |  Ottawa | Now | No Set Application Deadline  | Search for intern roles in dropdown  |
  |  [TD](https://jobs.td.com/en-CA/job-search-results/?keyword=intern&primary_country=CA) |  Across Canada (Toronto, Montreal, Ottawa, ...)  | Now | No Set Application Deadline  | |
  |  [TextIQ](https://www.textiq.com/career#openings) |  Vancouver | Now | No Set Application Deadline  |  |
  |  [ThinkData Works](https://www.thinkdataworks.com/company/careers#Header-Subnav) |  Toronto | Now | No Set Application Deadline  |  |
