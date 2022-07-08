@@ -26,6 +26,7 @@ To contribute:
 |  [EA](https://ea.gr8people.com/jobs/173735/software-engineer-unity-co-op-fall-22?jobPipeline=Indeed) |  Vancouver | Now |  |
  |  [Eddyfi](https://eddyfi.com/en/career/software-developer-coopintern) |  Toronto | Now |  |
  |  [Deloitte](https://careers.deloitte.ca/?search) |  Across Canada (Toronto, Montreal, Ottawa, ...) | Now | Search for Fall 2022 |
+ |  [fabric inc](https://boards.greenhouse.io/fabric) |  Toronto| Now | Search for intern |
  |  [Finastra](https://dh.wd3.myworkdayjobs.com/DHC/jobs) |  Mississauge | Now | Search for co-op |
  |  [Google](https://careers.google.com/jobs/results/115367821606560454-software-developer-intern-bachelors-summer-2022/?distance=50&employment_type=INTERN&location=Canada) |  Waterloo, Montreal, Toronto | Now | All positions (Bsc, Msc, PHD)  |
  |  [HomeX]( https://jobs.lever.co/homex) |  Toronto | Now | |
@@ -50,6 +51,7 @@ To contribute:
   |  [Seismic](https://seismic.com/careers/job-listings/) | Toronto | Now | No Set Application Deadline  |  |
   |  [Shopify](https://internships.shopify.com/?utm_source=Shopify-careers&utm_medium=early-talent-page&utm_campaign=general#scrollTo) | Across Canada | Now | May 22nd  |  |
  |  [Snowflake](https://careers.snowflake.com/us/en/job/6140228002/Software-Engineer-Intern-Toronto-Fall-2022) | Toronto | Now | No Set Application Deadline  |  |
+ |  [Spare](https://sparelabs.com/en/company/jobs) | Vancouver, Toronto | Now | No Set Application Deadline  |  |
  |  [Splunk](https://www.splunk.com/en_us/careers/search-jobs.html?keyword=co-op&region=Americas) | Vancouver | Now | No Set Application Deadline  |  |
  |  [Taplytics](https://jobs.lever.co/taplytics) |  Toronto | Now | No Set Application Deadline  |  |
  |  [Thales](https://thales.wd3.myworkdayjobs.com/en-US/Careers) |  Ottawa | Now | No Set Application Deadline  | Search for intern roles in dropdown  |
